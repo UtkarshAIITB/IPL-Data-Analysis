@@ -11,3 +11,5 @@ Neural Network Model on a certain ball
 Machine Learning models
 ### test.ipynb
 Test set of 2021 IPL data
+### WIDS_IPL_Report.pdf
+Report of all project
