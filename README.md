@@ -20,15 +20,16 @@ Tasks can be found in the file <i>EDA.ipynb</i>
 Utilized different Machine Learning models to Perform Classification Task (Predicting the Winner of the a match) and Regression Task (Final score prediction). And finally compaired the accuracies and by hyperparamter tuning and obtained the best model.
 <ul>
   <li>Score Prediction : Linear Regression, Support Vector Regression, Random Forest</li>
-  </li>Winner Prediction : Support Vector Classifier, Random Forest Classifier and also regressors using a custom accuracy function
+  <li>Winner Prediction : Support Vector Classifier, Random Forest Classifier and also regressors using a custom accuracy function</li>
 </ul>
 <i>ML_models.ipynb</i>
 
 ## Phase 3:
 Implemented Neural Networks to acheive the above tasks.
-<i>DL.ipynb, DL_byball.ipynb</i>
+<br>
+<i>DL.ipynb, DL_byball.ipynb</i> <br>
 
-### test.ipynb
+<b> test.ipynb : </b>
 Test set of 2021 IPL data
 
 ## Detailed overview of the project can be found out in the report : <i>WIDS_IPL_Report.pdf</i>
